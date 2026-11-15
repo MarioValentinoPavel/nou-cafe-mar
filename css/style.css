@@ -504,7 +504,7 @@ html.menu-open { overflow: hidden; }
   .fets { grid-template-columns: 1fr; border-top: 0; }
   .fets li { padding: 18px 0; border-top: 1px solid var(--linia); }
   .fets li + li { border-left: 0; }
-  .terraza-foto { aspect-ratio: 4 / 3; }
+  .terraza-foto { height: auto; aspect-ratio: 4 / 3; }
   .datos div { grid-template-columns: 1fr; gap: 2px; }
   .visita-cta { display: grid; grid-template-columns: 1fr; }
   .visita-cta .btn { width: 100%; }
